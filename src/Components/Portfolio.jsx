@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "RC Hackathon backend server",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Built a backend server for a hackathon project using Express.js and Node.js. The server is deployed to Azure.",
+    url: "https://github.com/Celesca/rc-hackathon-backend",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Practice CRUD with Express.js + Node.js",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed to a Thai language tutorial to help beginners learn how to create a basic CRUD application using Express.js and Node.js.",
+    url: "https://www.youtube.com/watch?v=tlL8b6-bl8I",
   },
   {
-    title: "My Resume Site",
+    title: "RC Chat (Real-time chat web application)",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a real-time chat web application using Express.js, Node.js, and Socket.IO.",
+    url: "https://github.com/Celesca/Real-time-chat",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Nest.JS Microservice Example",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a microservice example using Nest.JS.",
+    url: "https://github.com/Celesca/micro-service",
   },
 ];
 
