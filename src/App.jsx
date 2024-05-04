@@ -29,7 +29,7 @@ const siteProps = {
   email: "Sawit.Koseeyaumporn@studentambassadors.com",
   gitHub: "Celesca",
   instagram: "folkkk.sawit ",
-  linkedIn: "Folk Sawit Koseeyaumporn",
+  linkedIn: "sawit-koseeyaumporn-418941256/",
   medium: "",
   twitter: "",
   youTube: "",
